@@ -1,0 +1,1250 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "IL2CPP_CodeGen /Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_krjs.traceevents",
+      "Action": "\"/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp\" --convert-to-cpp --directory=\"/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed\" --data-folder=\"/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/il2cppOutput/Data\" --generatedcppdir=\"/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/il2cppOutput\" --symbols-folder=\"/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/il2cppOutput/Symbols\" --additional-cpp=\"/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp\" --additional-cpp=\"/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp\" --emit-null-checks --enable-array-bounds-check --code-generation-option=EnableInlining --stats-output-dir=\"/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/il2cppStats\" --dotnetprofile=unityaot-macos --cachedirectory=\"/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS\" --profiler-report --profiler-output-file=\"/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_krjs.traceevents\"",
+      "ProfilerOutput": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_krjs.traceevents",
+      "Inputs": [
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.CSharp.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Web.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Contracts.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ServiceModel.Web.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.FileVersionInfo.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Intrinsics.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Security.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/MiniProfiler.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Common35.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Mono.Cecil.Rocks.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XPath.XDocument.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.Linq.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebSockets.Client.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.MacOS.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Core.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.NativeProgramSupport.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/createdump",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Building.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Dynamic.Runtime.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.Xml.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.WindowsDesktop.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.Android.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Principal.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.ThreadPool.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Compression.FileSystem.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Metadata.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Tools.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Cng.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/UnityLinker.deps.json",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.EventBasedAsync.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.DiagnosticSource.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Linker.Api.Output.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.TinyProfiler2.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.CompilerServices.VisualC.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.BeeDriver.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/netstandard.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.VisualBasic.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.UnmanagedMemoryStream.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.WebGL.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.AccessControl.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XPath.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.PinnedToolChains.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.Linux.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XmlDocument.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/UnityLinker.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.GNU.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Configuration.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Resources.Writer.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Console.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/NiceIO.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Common.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/libcoreclr.dylib",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Sockets.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Http.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Windows.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Web.HttpUtility.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Encoding.Extensions.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.NetworkInformation.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.VisualBasic.Core.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Principal.Windows.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp.deps.json",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Emscripten.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Stevedore.Program.exe.config",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Claims.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.Primitives.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.DriveInfo.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.LLVM.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/monolinker.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/libSystem.Native.dylib",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Compression.Brotli.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Pipes.AccessControl.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/UnityLinker.dll.config",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.X509Certificates.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Api.Output.xml",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Primitives.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Numerics.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/JetBrains.Profiler.Api.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.Watcher.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.TraceSource.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Tools.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Emit.Lightweight.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Encoding.CodePages.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/UnityLinker.runtimeconfig.json",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Linq.Expressions.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.Api.Output.xml",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Timer.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.InteropServices.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Pipes.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.HttpListener.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.Bcl.HashCode.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.BeeDriver.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.RegularExpressions.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.deps.json",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Stevedore.Program.exe",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.TinyProfiler2.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Linker.Api.Output.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Compression.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/libSystem.IO.Compression.Native.dylib",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Tasks.Parallel.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/WindowsBase.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.Xml.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Data.DataSetExtensions.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.NonGeneric.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.Concurrent.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Quic.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Core.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.MacOS.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/SharpYaml.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Common35.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/MiniProfiler.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Overlapped.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Building.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.NativeProgramSupport.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Encodings.Web.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.Serialization.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Handles.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebProxy.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Json.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.Android.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ObjectModel.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.WindowsDesktop.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.CoreLib.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebHeaderCollection.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.InteropServices.RuntimeInformation.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.TypeConverter.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Emscripten.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Mail.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Tasks.Extensions.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Linq.Parallel.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/monolinker.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.LLVM.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XDocument.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.SecureString.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Mono.Cecil.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.Annotations.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.PinnedToolChains.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.WebGL.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.DataContractSerialization.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Stevedore.Program.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.Primitives.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/UnityLinker.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/mscorlib.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Http.Json.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.Linux.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.GNU.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Primitives.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Compression.ZipFile.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Windows.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Linq.Queryable.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Resources.ResourceManager.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Resources.Reader.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Windows.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Emit.ILGeneration.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Common.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/NiceIO.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Data.Common.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.DataModel.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.NameResolution.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.Api.Output.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.TundraBackend.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Android.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.Uri.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.BeeDriver.xml",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Loader.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.DotNet.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.ReaderWriter.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/libSystem.Globalization.Native.dylib",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Tasks.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Tracing.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.AppContext.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Buffers.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Linux.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Csp.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.RuntimeServices.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Linker.Api.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.VisualStudioSolution.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.TextWriterTraceListener.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Api.Attributes.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.CSharpSupport.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/libSystem.Security.Cryptography.Native.Apple.dylib",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Encoding.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/libmscordaccore.dylib",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp.runtimeconfig.json",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Transactions.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp.dll.config",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Tasks.Dataflow.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Newtonsoft.Json.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.MemoryMappedFiles.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/UnityLinker",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.OpenSsl.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Cecil.Visitor.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.CompilerServices.Unsafe.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Shell.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.Win32.Registry.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.MacOSX.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Globalization.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Api.Output.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.Specialized.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ValueTuple.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Options.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/libhostfxr.dylib",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Api.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/libSystem.Net.Security.Native.dylib",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Cecil.Awesome.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.VisualStudio.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.ServicePoint.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XmlSerializer.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Extensions.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Globalization.Extensions.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Xcode.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Extensions.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Data.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Encoding.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.IsolatedStorage.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/libmscordbi.dylib",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/NiceIO.xml",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.AccessControl.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Linker.Api.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.TypeExtensions.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.RuntimeServices.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Linux.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.runtimeconfig.json",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Globalization.Calendars.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Core.xml",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Requests.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebSockets.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Emit.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.VisualStudioSolution.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.Json.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Algorithms.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.CSharpSupport.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Api.Attributes.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Thread.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Numerics.Vectors.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ServiceProcess.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.Api.Output.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.DataModel.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/libhostpolicy.dylib",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Linq.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Mono.Cecil.Pdb.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Android.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Process.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.TundraBackend.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Numerics.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Linker.Api.Output.xml",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Tools.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.DotNet.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.TinyProfiler2.xml",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.Immutable.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/libSystem.Security.Cryptography.Native.OpenSsl.dylib",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Debug.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/libdbgshim.dylib",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Options.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.Win32.Primitives.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.VisualStudio.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.Primitives.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Cecil.Awesome.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Api.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Transactions.Local.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Xcode.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Drawing.Primitives.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Drawing.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.Formatters.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Ping.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.StackTrace.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Mono.Cecil.Mdb.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.DispatchProxy.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/libclrjit.dylib",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Core.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebClient.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Formats.Asn1.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.DataAnnotations.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.Xml.Linq.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Memory.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Primitives.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Analytics",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Cecil.Visitor.pdb",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Channels.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Api.Output.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.MacOSX.dll",
+        "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Shell.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Flow.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Core.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/ICallSummary.txt",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityICallRegistration.cpp",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/TypesInScenes.xml",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/System.Configuration.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/ARDK.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/System.Net.Http.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/Niantic.Google.Protobuf.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/SerializedTypes.xml",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Flow.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Core.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/Assembly-CSharp.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/zxing.unity.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestTextureModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/mscorlib.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/ARDK.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/Unity.Subsystem.Registration.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.ImageConversionModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/Niantic.Platform.Analytics.NATelemetry.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreFontEngineModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.AIModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/Unity.Profiling.Core.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.JSONSerializeModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityLinkerToEditorData.json",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/Mono.Security.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/Unity.AdaptivePerformance.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/System.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.ImageConversionModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.UI.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/System.Numerics.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/System.Xml.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreTextEngineModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/Unity.Subsystem.Registration.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.JSONSerializeModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/Unity.AdaptivePerformance.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.AIModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/System.Core.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.pdb",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed/Unity.Profiling.Core.dll",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp"
+      ],
+      "Outputs": [
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_krjs.traceevents",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_krjs.traceevents"
+      ],
+      "TargetDirectories": [
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/il2cppOutput/Data",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/il2cppOutput",
+        "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/il2cppOutput/Symbols"
+      ],
+      "OverwriteOutputs": false,
+      "AllowUnexpectedOutput": true,
+      "GlobSignatures": [
+        {
+          "Path": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/il2cppOutput",
+          "Filter": "*.cpp",
+          "Recurse": 1
+        },
+        {
+          "Path": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/il2cppOutput",
+          "Filter": "*.c",
+          "Recurse": 1
+        },
+        {
+          "Path": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/il2cppOutput",
+          "Filter": "*.mm",
+          "Recurse": 1
+        },
+        {
+          "Path": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/il2cppOutput",
+          "Filter": "*.m",
+          "Recurse": 1
+        },
+        {
+          "Path": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/il2cppOutput",
+          "Filter": "*.h",
+          "Recurse": 1
+        },
+        {
+          "Path": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/il2cppOutput/Data",
+          "Recurse": 1
+        }
+      ],
+      "DebugActionIndex": 1
+    },
+    {
+      "Annotation": "FinalProgram",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 2
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.Api.Output.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.BeeDriver.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Core.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.CSharpSupport.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.DotNet.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.NativeProgramSupport.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Stevedore.Program.exe"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.TinyProfiler2.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Android.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Emscripten.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.GNU.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Linux.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.LLVM.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.MacOS.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.VisualStudio.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Windows.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Xcode.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Tools.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.TundraBackend.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Bee.VisualStudioSolution.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/JetBrains.Profiler.Api.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.Bcl.HashCode.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.CSharp.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.VisualBasic.Core.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.VisualBasic.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.Win32.Primitives.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.Win32.Registry.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/MiniProfiler.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Mono.Cecil.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Mono.Cecil.Mdb.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Mono.Cecil.Pdb.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Mono.Cecil.Rocks.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/monolinker.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/mscorlib.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/netstandard.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Newtonsoft.Json.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/NiceIO.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/SharpYaml.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.AppContext.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Buffers.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.Concurrent.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.Immutable.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.NonGeneric.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.Specialized.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.Annotations.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.DataAnnotations.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.EventBasedAsync.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.Primitives.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.TypeConverter.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Configuration.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Console.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Core.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Data.Common.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Data.DataSetExtensions.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Data.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Contracts.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Debug.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.DiagnosticSource.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.FileVersionInfo.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Process.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.StackTrace.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.TextWriterTraceListener.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Tools.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.TraceSource.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Tracing.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Drawing.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Drawing.Primitives.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Dynamic.Runtime.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Formats.Asn1.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Globalization.Calendars.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Globalization.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Globalization.Extensions.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Compression.Brotli.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Compression.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Compression.FileSystem.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Compression.ZipFile.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.AccessControl.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.DriveInfo.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.Primitives.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.Watcher.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.IsolatedStorage.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.MemoryMappedFiles.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Pipes.AccessControl.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Pipes.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.UnmanagedMemoryStream.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Linq.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Linq.Expressions.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Linq.Parallel.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Linq.Queryable.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Memory.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Http.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Http.Json.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.HttpListener.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Mail.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.NameResolution.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.NetworkInformation.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Ping.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Primitives.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Quic.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Requests.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Security.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.ServicePoint.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Sockets.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebClient.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebHeaderCollection.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebProxy.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebSockets.Client.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebSockets.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Numerics.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Numerics.Vectors.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ObjectModel.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.CoreLib.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.DataContractSerialization.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.Uri.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.Xml.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.Xml.Linq.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.DispatchProxy.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Emit.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Emit.ILGeneration.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Emit.Lightweight.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Extensions.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Metadata.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Primitives.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.TypeExtensions.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Resources.Reader.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Resources.ResourceManager.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Resources.Writer.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.CompilerServices.Unsafe.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.CompilerServices.VisualC.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Extensions.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Handles.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.InteropServices.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.InteropServices.RuntimeInformation.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Intrinsics.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Loader.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Numerics.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.Formatters.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.Json.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.Primitives.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.Xml.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.AccessControl.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Claims.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Algorithms.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Cng.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Csp.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Encoding.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.OpenSsl.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Primitives.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.X509Certificates.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Principal.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Principal.Windows.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.SecureString.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ServiceModel.Web.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ServiceProcess.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Encoding.CodePages.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Encoding.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Encoding.Extensions.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Encodings.Web.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Json.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.RegularExpressions.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Channels.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Overlapped.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Tasks.Dataflow.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Tasks.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Tasks.Extensions.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Tasks.Parallel.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Thread.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.ThreadPool.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Timer.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Transactions.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Transactions.Local.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.ValueTuple.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Web.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Web.HttpUtility.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Windows.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.Linq.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.ReaderWriter.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.Serialization.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XDocument.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XmlDocument.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XmlSerializer.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XPath.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XPath.XDocument.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Api.Attributes.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Cecil.Awesome.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Cecil.Visitor.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Api.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Api.Output.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.Android.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.Linux.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.MacOSX.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.WebGL.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.WindowsDesktop.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.PinnedToolChains.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Building.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Common.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Common35.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.DataModel.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.RuntimeServices.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Shell.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Linker.Api.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Linker.Api.Output.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Options.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/UnityLinker.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy/WindowsBase.dll"
+    },
+    {
+      "File": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/buildstate/bee-inputdata.json"
+    }
+  ],
+  "StatSignatures": [
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/external/xamarin-android"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/libil2cpp"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/libil2cpp/codegen"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/libil2cpp/gc"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/libil2cpp/os"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/libil2cpp/utils"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils"
+    },
+    {
+      "File": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/libil2cpptiny"
+    },
+    {
+      "File": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/buildstate/bee-inputdata.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/build/deploy"
+    },
+    {
+      "Path": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/external/xamarin-android"
+    },
+    {
+      "Path": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/libil2cpp",
+      "Recurse": 1
+    },
+    {
+      "Path": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/libil2cpp/codegen",
+      "Recurse": 1
+    },
+    {
+      "Path": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/libil2cpp/gc",
+      "Recurse": 1
+    },
+    {
+      "Path": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/libil2cpp/os",
+      "Recurse": 1
+    },
+    {
+      "Path": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/libil2cpp/utils",
+      "Recurse": 1
+    },
+    {
+      "Path": "/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils",
+      "Recurse": 1
+    },
+    {
+      "Path": "/Users/michaelalaniz/Los_Primos/IOS Water/Temp/StagingArea/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".winmd",
+    ".pdb",
+    ".cpp",
+    ".cc",
+    ".c",
+    ".hpp",
+    ".h",
+    ".json",
+    ".xml",
+    ".txt"
+  ],
+  "StructuredLogFileName": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/buildstate/tundra.log.json",
+  "StateFileName": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/buildstate/TundraBuildState.state",
+  "StateFileNameTmp": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/buildstate/TundraBuildState.state.tmp",
+  "StateFileNameMapped": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/buildstate/TundraBuildState.state.map",
+  "ScanCacheFileName": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/buildstate/tundra.scancache",
+  "ScanCacheFileNameTmp": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/buildstate/tundra.scancache.tmp",
+  "DigestCacheFileName": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/buildstate/tundra.digestcache",
+  "DigestCacheFileNameTmp": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/buildstate/tundra.digestcache.tmp",
+  "EmitDataForBeeWhy": 1,
+  "DirectoriesCausingImplicitDependencies": [
+    "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/il2cppOutput/Data",
+    "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/il2cppOutput",
+    "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/il2cppOutput/Symbols"
+  ],
+        "NamedNodes": {
+          "all_tundra_nodes": 0,
+          "FinalProgram": 2
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "/Users/michaelalaniz/Los_Primos/IOS Water/Library/Il2cppBuildCache/iOS/buildstate/bee.dag.json",
+  "BuildTitle": "il2cpp",
+  "RelativePathToRoot": "."
+}

@@ -117,6 +117,9 @@
 -define:ROSLYN_ANALYZER_FIX
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll"
+-r:"/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll"
+-r:"/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
 -r:"/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/Managed/UnityEditor.Graphs.dll"
 -r:"/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
