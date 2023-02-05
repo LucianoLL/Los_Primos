@@ -21,12 +21,15 @@
 
     <ToggleButton
         android:id="@+id/toggleButton"
-        android:layout_width="154dp"
-        android:layout_height="105dp"
+        android:layout_width="286dp"
+        android:layout_height="97dp"
         android:layout_marginTop="400dp"
         android:button="@color/white"
+        android:contextClickable="false"
         android:fitsSystemWindows="false"
         android:text="ToggleButton"
+        android:textOff="SCAN"
+        android:textOn="SCANNING"
         android:textSize="34sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
