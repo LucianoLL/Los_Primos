@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARDK", "ARDK.csproj", "{a1a47d1a-c4fc-3844-9282-400e9bca7ada}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{92272918-df81-72e6-a30d-c017ee4b48d6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARDK-Editor", "ARDK-Editor.csproj", "{1f9d0447-7796-e38f-7d5b-f5cee098ccbf}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{177bac9b-fb99-fa47-596f-af8364bc9a15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{a1a47d1a-c4fc-3844-9282-400e9bca7ada}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a1a47d1a-c4fc-3844-9282-400e9bca7ada}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92272918-df81-72e6-a30d-c017ee4b48d6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92272918-df81-72e6-a30d-c017ee4b48d6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1f9d0447-7796-e38f-7d5b-f5cee098ccbf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1f9d0447-7796-e38f-7d5b-f5cee098ccbf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{177bac9b-fb99-fa47-596f-af8364bc9a15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{177bac9b-fb99-fa47-596f-af8364bc9a15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

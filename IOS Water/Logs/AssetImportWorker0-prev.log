@@ -1,0 +1,315 @@
+Unity Editor version:    2021.3.15f1 (e8e88683f834)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 13.0.1 (Build 22A400)
+Darwin version:          22.1.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/michaelalaniz/Documents/Games/Hackathon 2023
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54535
+Successfully changed project path to: /Users/michaelalaniz/Documents/Games/Hackathon 2023
+/Users/michaelalaniz/Documents/Games/Hackathon 2023
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8497669376] Host "[IP] 169.233.148.153 [Port] 0 [Flags] 2 [Guid] 3955665070 [EditorId] 3955665070 [Version] 1048832 [Id] OSXEditor(0,eduroam-169-233-148-153.ucsc.edu) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [8497669376] Host "[IP] 169.233.148.153 [Port] 0 [Flags] 2 [Guid] 3955665070 [EditorId] 3955665070 [Version] 1048832 [Id] OSXEditor(0,eduroam-169-233-148-153.ucsc.edu) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 111.01 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.15f1 (e8e88683f834)
+[Subsystems] Discovering subsystems at path /Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/michaelalaniz/Documents/Games/Hackathon 2023/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+ preferred device: Apple M1 (high power)
+Metal devices available: 1
+0: Apple M1 (high power)
+Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56495
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001375 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 124.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.813 seconds
+Domain Reload Profiling:
+	ReloadAssembly (813ms)
+		BeginReloadAssembly (67ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (642ms)
+			LoadAssemblies (68ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (111ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (448ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (125ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (241ms)
+				ProcessInitializeOnLoadMethodAttributes (75ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005528 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/michaelalaniz/Documents/Games/Hackathon 2023/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/michaelalaniz/Documents/Games/Hackathon 2023/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+Package Manager log level set to [2]
+- Completed reload, in  1.185 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1186ms)
+		BeginReloadAssembly (98ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (884ms)
+			LoadAssemblies (83ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (322ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (61ms)
+			SetupLoadedEditorAssemblies (364ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (99ms)
+				ProcessInitializeOnLoadAttributes (234ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Users/michaelalaniz/Documents/Unity Projects/2021.3.15f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3475 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 40 unused Assets / (66.0 KB). Loaded Objects now: 3919.
+Memory consumption went from 72.2 MB to 72.1 MB.
+Total: 3.715250 ms (FindLiveObjects: 0.157291 ms CreateObjectMapping: 0.069583 ms MarkObjects: 3.399875 ms  DeleteObjects: 0.087542 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 166805.826247 seconds.
+  path: Assets/Readme.asset
+  artifactKey: Guid(7f2c382dc2c22446db59030979f6e495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Readme.asset using Guid(7f2c382dc2c22446db59030979f6e495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9990f39c3de691f85cda2915bc54e9c4') in 0.076244 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003810 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x2926cf000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/michaelalaniz/Documents/Games/Hackathon 2023/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/michaelalaniz/Documents/Games/Hackathon 2023/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+#Niantic.ARDK.Internals.StartupSystems#: Could not load an ArdkAuthConfig, please add one in a Resources/ARDK/ directory. For more information, visit the niantic.dev/docs/authentication.html site.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Niantic.ARDK.Utilities.Logging.UnityARLogHandler:Error (string) (at Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs:41)
+Niantic.ARDK.Utilities.Logging.ARLog:_Error (string) (at Assets/ARDK/Utilities/Logging/ARLog.cs:198)
+Niantic.ARDK.Internals.StartupSystems:_SetAuthenticationParameters () (at Assets/ARDK/Internals/StartupSystems.cs:150)
+Niantic.ARDK.Internals.StartupSystems:_SetCSharpInitializationMetadata () (at Assets/ARDK/Internals/StartupSystems.cs:120)
+Niantic.ARDK.Internals.StartupSystems:EditorStartup () (at Assets/ARDK/Internals/StartupSystems.cs:59)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:147)
+
+(Filename: Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs Line: 41)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.772 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1773ms)
+		BeginReloadAssembly (192ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (87ms)
+		EndReloadAssembly (1444ms)
+			LoadAssemblies (101ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (345ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (913ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (101ms)
+				ProcessInitializeOnLoadAttributes (297ms)
+				ProcessInitializeOnLoadMethodAttributes (499ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4155 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 65 unused Assets / (437.8 KB). Loaded Objects now: 4575.
+Memory consumption went from 177.2 MB to 176.8 MB.
+Total: 3.775459 ms (FindLiveObjects: 0.201750 ms CreateObjectMapping: 0.081584 ms MarkObjects: 3.252084 ms  DeleteObjects: 0.239292 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (30.5 KB). Loaded Objects now: 4575.
+Memory consumption went from 176.8 MB to 176.7 MB.
+Total: 3.188333 ms (FindLiveObjects: 0.160125 ms CreateObjectMapping: 0.075750 ms MarkObjects: 2.944583 ms  DeleteObjects: 0.007458 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 122.679074 seconds.
+  path: Assets/ARDK/ARDK.asmdef
+  artifactKey: Guid(f3cc28278c88a4b43ae1ec99ea44ed56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/ARDK.asmdef using Guid(f3cc28278c88a4b43ae1ec99ea44ed56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a00ec85b7ece5b96b904af41bdfb258') in 0.041331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.277383 seconds.
+  path: Assets/ARDK/Editor/ARDK-Editor.asmdef
+  artifactKey: Guid(cb3367e27d5c740089bcadc6ab9be726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Editor/ARDK-Editor.asmdef using Guid(cb3367e27d5c740089bcadc6ab9be726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44823623159019fcfc72a3b20ceb12a6') in 0.001592 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/ARDK/Rendering/SRP/ArdkUrpAsset.asset
+  artifactKey: Guid(a857f2a9d2f014d2b84f097d70eefa14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Rendering/SRP/ArdkUrpAsset.asset using Guid(a857f2a9d2f014d2b84f097d70eefa14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2a090b2acdc3a2a0517cc43c4e1527c') in 0.004395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/ARDK/Rendering/SRP/ArdkUrpAssetRenderer.asset
+  artifactKey: Guid(7d3be5c514c9a4ac7af188b9969f47de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Rendering/SRP/ArdkUrpAssetRenderer.asset using Guid(7d3be5c514c9a4ac7af188b9969f47de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93b61760337129f3c10b5752e74c4db0') in 0.002164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/ARDK/Extensions/Gameboard/GameboardMeshChunk.prefab
+  artifactKey: Guid(d0183eaba3a4c44e9aafc695278e1e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Gameboard/GameboardMeshChunk.prefab using Guid(d0183eaba3a4c44e9aafc695278e1e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2016933d004c104e050e5d4cfa547185') in 0.059479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.006464 seconds.
+  path: Assets/ARDK/Configuration/Authentication/ArdkAuthConfig.cs
+  artifactKey: Guid(3e818d7086440451e889be0511048aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Configuration/Authentication/ArdkAuthConfig.cs using Guid(3e818d7086440451e889be0511048aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8bcc6c6e49748e8efe2ecbb725d66c5') in 0.134151 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.811920 seconds.
+  path: Assets/ARDK/AR/WayspotAnchors/WayspotAnchorsConfiguationFactory.cs
+  artifactKey: Guid(150a63edab33b400ca6173b2c2efea70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/AR/WayspotAnchors/WayspotAnchorsConfiguationFactory.cs using Guid(150a63edab33b400ca6173b2c2efea70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05f29305d8be0960bd5143d382e10f7b') in 0.001206 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.206664 seconds.
+  path: Assets/ARDK/Configuration/_PlaceholderARDKConfig.cs
+  artifactKey: Guid(dd2e28116ea17b6906ac6f55e531012d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Configuration/_PlaceholderARDKConfig.cs using Guid(dd2e28116ea17b6906ac6f55e531012d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e27ec0a6ae8d63a79866e8582f7dcb7d') in 0.001343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.147956 seconds.
+  path: Assets/ARDK/AR/Configuration/_ARConfigurationValidator.cs
+  artifactKey: Guid(3ac7248d033f4fab95b57144f065cd5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/AR/Configuration/_ARConfigurationValidator.cs using Guid(3ac7248d033f4fab95b57144f065cd5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36386b089af3b474bc0e36da66bce093') in 0.001251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 188.718789 seconds.
+  path: Assets/ArdkAuthConfig.asset
+  artifactKey: Guid(a9b59f3b59a23402589ce2a4f5366557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArdkAuthConfig.asset using Guid(a9b59f3b59a23402589ce2a4f5366557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '694d02360c36f0e0e8f7fe8283c6c7e2') in 0.019839 seconds 
