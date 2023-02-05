@@ -31,6 +31,10 @@ public class Track : MonoBehaviour
             Debug.Log(spawnSymbol.name);   
         }
 
+        foreach(var spawnSymbol in spawnArgs.removed) {
+            Destroy(spawnSymbol);
+        }
+
     }
 
 }

@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: WaterBodies
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4632778479015715362
+  m_GuidHigh: 12450775550232007845
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4837405626654480621
+      m_GuidHigh: 8579192265854201516
+    m_SerializedTextureGuid:
+      m_GuidLow: 1486823084756548333
+      m_GuidHigh: 11317808636282187144
+    m_Size: {x: 1, y: 0.6666667}
+    m_SpecifySize: 1
+    m_Name: ocean 1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5240969051649464643
+      m_GuidHigh: 8306515264393272457
+    m_SerializedTextureGuid:
+      m_GuidLow: 1486823084756548333
+      m_GuidHigh: 11317808636282187144
+    m_Size: {x: 2, y: 1.3333334}
+    m_SpecifySize: 1
+    m_Name: ocean 2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5317936252249253862
+      m_GuidHigh: 7123037133797698975
+    m_SerializedTextureGuid:
+      m_GuidLow: 1486823084756548333
+      m_GuidHigh: 11317808636282187144
+    m_Size: {x: 4.5, y: 3}
+    m_SpecifySize: 1
+    m_Name: ocean 3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4850923479288491865
+      m_GuidHigh: 10688419681579684240
+    m_SerializedTextureGuid:
+      m_GuidLow: 1486823084756548333
+      m_GuidHigh: 11317808636282187144
+    m_Size: {x: 5, y: 3.3333333}
+    m_SpecifySize: 1
+    m_Name: ocean 4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5308926089145555202
+      m_GuidHigh: 10006801932583995062
+    m_SerializedTextureGuid:
+      m_GuidLow: 1486823084756548333
+      m_GuidHigh: 11317808636282187144
+    m_Size: {x: 7.5, y: 5}
+    m_SpecifySize: 1
+    m_Name: ocean 5
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5085086414675856372
+      m_GuidHigh: 8895805083427523773
+    m_SerializedTextureGuid:
+      m_GuidLow: 1486823084756548333
+      m_GuidHigh: 11317808636282187144
+    m_Size: {x: 8, y: 5.3333335}
+    m_SpecifySize: 1
+    m_Name: ocean 6
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5221379558967913824
+      m_GuidHigh: 8558226962931184570
+    m_SerializedTextureGuid:
+      m_GuidLow: 1486823084756548333
+      m_GuidHigh: 11317808636282187144
+    m_Size: {x: 10.5, y: 7}
+    m_SpecifySize: 1
+    m_Name: ocean 7
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4941667803278532485
+      m_GuidHigh: 1838257897282903740
+    m_SerializedTextureGuid:
+      m_GuidLow: 1486823084756548333
+      m_GuidHigh: 11317808636282187144
+    m_Size: {x: 11, y: 7.3333335}
+    m_SpecifySize: 1
+    m_Name: ocean 8
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4925834975595602132
+      m_GuidHigh: 2939386560726210215
+    m_SerializedTextureGuid:
+      m_GuidLow: 1486823084756548333
+      m_GuidHigh: 11317808636282187144
+    m_Size: {x: 12, y: 8}
+    m_SpecifySize: 1
+    m_Name: ocean 9
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4881835703257788200
+      m_GuidHigh: 9962083272635275904
+    m_SerializedTextureGuid:
+      m_GuidLow: 1486823084756548333
+      m_GuidHigh: 11317808636282187144
+    m_Size: {x: 19.5, y: 13}
+    m_SpecifySize: 1
+    m_Name: ocean 10
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5641421827615424068
+      m_GuidHigh: 4032828391312029101
+    m_SerializedTextureGuid:
+      m_GuidLow: 6058175542566827805
+      m_GuidHigh: 12286788902673133546
+    m_Size: {x: 1, y: 0.5625}
+    m_SpecifySize: 1
+    m_Name: m_water 1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5294500186207486222
+      m_GuidHigh: 10253623301909099155
+    m_SerializedTextureGuid:
+      m_GuidLow: 6058175542566827805
+      m_GuidHigh: 12286788902673133546
+    m_Size: {x: 2, y: 1.125}
+    m_SpecifySize: 1
+    m_Name: m_water 2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5675179459618148696
+      m_GuidHigh: 15711596315972026263
+    m_SerializedTextureGuid:
+      m_GuidLow: 6058175542566827805
+      m_GuidHigh: 12286788902673133546
+    m_Size: {x: 3, y: 1.6875}
+    m_SpecifySize: 1
+    m_Name: m_water 3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4978992111294965063
+      m_GuidHigh: 7067256057969713811
+    m_SerializedTextureGuid:
+      m_GuidLow: 6058175542566827805
+      m_GuidHigh: 12286788902673133546
+    m_Size: {x: 4, y: 2.25}
+    m_SpecifySize: 1
+    m_Name: m_water 4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5284534432572527683
+      m_GuidHigh: 10784251120121494148
+    m_SerializedTextureGuid:
+      m_GuidLow: 6058175542566827805
+      m_GuidHigh: 12286788902673133546
+    m_Size: {x: 5, y: 2.8125}
+    m_SpecifySize: 1
+    m_Name: m_water 5
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4624623072093498657
+      m_GuidHigh: 7145878667432737197
+    m_SerializedTextureGuid:
+      m_GuidLow: 6058175542566827805
+      m_GuidHigh: 12286788902673133546
+    m_Size: {x: 6, y: 3.375}
+    m_SpecifySize: 1
+    m_Name: m_water 6
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5729067260099791109
+      m_GuidHigh: 11973252422531058578
+    m_SerializedTextureGuid:
+      m_GuidLow: 6058175542566827805
+      m_GuidHigh: 12286788902673133546
+    m_Size: {x: 7, y: 3.9375}
+    m_SpecifySize: 1
+    m_Name: m_water 7
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4804230568747127333
+      m_GuidHigh: 2090659296703877516
+    m_SerializedTextureGuid:
+      m_GuidLow: 6058175542566827805
+      m_GuidHigh: 12286788902673133546
+    m_Size: {x: 8, y: 4.5}
+    m_SpecifySize: 1
+    m_Name: m_water 8
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5556347957516350707
+      m_GuidHigh: 17286963287324783234
+    m_SerializedTextureGuid:
+      m_GuidLow: 6058175542566827805
+      m_GuidHigh: 12286788902673133546
+    m_Size: {x: 9, y: 5.0625}
+    m_SpecifySize: 1
+    m_Name: m_water 9
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4881848822823188351
+      m_GuidHigh: 12770535536718549694
+    m_SerializedTextureGuid:
+      m_GuidLow: 6058175542566827805
+      m_GuidHigh: 12286788902673133546
+    m_Size: {x: 10, y: 5.625}
+    m_SpecifySize: 1
+    m_Name: m_water10
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5441181568063789951
+      m_GuidHigh: 1342849573472860091
+    m_SerializedTextureGuid:
+      m_GuidLow: 6058175542566827805
+      m_GuidHigh: 12286788902673133546
+    m_Size: {x: 50, y: 28.125}
+    m_SpecifySize: 1
+    m_Name: m_water 1
+    m_Texture: {fileID: 0}
